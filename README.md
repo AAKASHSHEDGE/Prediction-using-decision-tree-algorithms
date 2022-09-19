@@ -1,4 +1,4 @@
 # Prediction-using-decision-tree-algorithms
+GRIP : THE SPARKS FOUNDATION
 DATA SCIENCE AND BUSINESS ANALYTICS INTERNSHIP
-TASK 1 :- Prediction using decision tree algorithms
 Submitted by Aakash Shedge
